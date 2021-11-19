@@ -9,4 +9,4 @@ console.log('il tuo colore preferito', colore);
 
 document.writeln(nome + cognome + colore + ' 21');
 
-document.getElementById('dati-inseriti').innerHTML = nome + cognome + colore + ' 21'
+document.getElementById('dati-inseriti').innerHTML = nome + cognome + colore + ' 21';
